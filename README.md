@@ -42,4 +42,4 @@ causal_forest.const_marginal_ate(X_test)
 
 - Athey and Imbens, 2018, [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)
 - Andrew Tiffin, 2019, [Machine Learning and Causality:
-The Impact of Financial Crises on Growth](https://www.imf.org/en/Publications/WP/Issues/2019/11/01/Machine-Learning-and-Causality-The-Impact-of-Financial-Crises-on-Growth-48722).
+The Impact of Financial Crises on Growth](https://www.imf.org/en/Publications/WP/Issues/2019/11/01/Machine-Learning-and-Causality-The-Impact-of-Financial-Crises-on-Growth-48722)
