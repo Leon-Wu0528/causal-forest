@@ -12,12 +12,6 @@ The documentation is hosted at https://econml.azurewebsites.net/_autosummary/eco
 
 ## Example
 
-### Complete example:
-
-For a complete working example going through all main features please view our example notebook.
-
-### Minimal example:
-
 ```python
 from econml.dml import CausalForestDML
 
