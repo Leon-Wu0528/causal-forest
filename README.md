@@ -15,12 +15,6 @@ The documentation is hosted at https://econml.azurewebsites.net/_autosummary/eco
 ### Complete example:
 
 For a complete working example going through all main features please view our example notebook.
-<a href="https://nbviewer.jupyter.org/github/timmens/causal-forest/blob/master/docs/source/getting_started/example.ipynb"
-   target="_parent">
-   <img align="center" 
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" 
-      width="109" height="20">
-</a>
 
 ### Minimal example:
 
