@@ -10,7 +10,7 @@ It implements the Causal Forest algorithm first formulated in Athey and Wager (2
 The documentation is hosted at https://econml.azurewebsites.net/_autosummary/econml.dml.CausalForestDML.html .
 
 
-## Example
+## Demo
 
 ```python
 from econml.dml import CausalForestDML
